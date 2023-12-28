@@ -4,7 +4,7 @@
 <p><strong>Objective:</strong> The primary goal of the program is to solve Sudoku puzzles automatically using a
         backtracking algorithm.</p>
 <p><strong>Features:</strong> The main feature is the backtracking algorithm used for solving Sudoku puzzles.</p>
-<h3>Working shown in issues as well as in img folder.</h3>
+
 <hr>
 <h2>Sudoku Game (Web-based Game):</h2>
  <p><strong>Objective:</strong> The primary goal of the game is to provide an interactive and engaging user experience
@@ -12,5 +12,5 @@
 <p><strong>User Interaction:</strong>It is interactive gameplay where users can click on cells to input their own solutions and play it like a game.</p>
 <p><strong>Features:</strong> In addition to solving puzzles, it includes game-specific features such as difficulty
         levels, a timer, and a lives system for a more dynamic and challenging experience.</p>
-<h3>Working:</h3>
+
 <hr>
