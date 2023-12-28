@@ -184,7 +184,6 @@ function solvePuzzle() {
   else if (id("diff-2").checked) solution = medium[1];
   else solution = hard[1];
 
-  // Display the solved puzzle
   for (let i = 0; i < 81; i++) {
     id(i).textContent = solution.charAt(i);
   }
